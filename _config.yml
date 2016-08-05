@@ -1,0 +1,28 @@
+name: Skunkworx Lab
+favicon: null
+layout_spectrum: 0.01955945184454322
+typography_spectrum: 0.6442038507666439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8512648039031774
+  lightness: 0.3467725971713662
+  saturation: 0.519666503649205
+  rhythmicContrast: 0.44477300089783967
+purpose: []
